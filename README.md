@@ -65,7 +65,7 @@ The `ImagePreviewModal` allows users to view and analyze images. Extracted text 
 ### **2. UPI Payment Modal**
 The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI link or initiate payments.
 
-![UPI Payment Modal](https://via.placeholder.com/800x400.png?text=UPI+Payment)
+![UPI Payment Modal](https://via.placeholder.com/800x400.png?text=UPI+Payment+Modal)
 
 ---
 
