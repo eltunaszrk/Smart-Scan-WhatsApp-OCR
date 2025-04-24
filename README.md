@@ -53,7 +53,7 @@ Smart Scan integrates OCR capabilities directly into WhatsApp Web, enabling user
 - **UPI QR Code Detection**: Detect UPI IDs and QR codes for payments.
 - **Contextual Actions**:
   - Copy text or UPI links.
-  - Initiate payments via UPI apps (e.g., GPay, PhonePe, Paytm).
+  - Initiate payments via UPI apps (e.g., GPay, PhonePe, Paytm, WhatsApp Pay).
   - Translate text (future enhancement).
 - **Responsive UI**:
   - Close modals by clicking outside the modal or on the sidebar.
