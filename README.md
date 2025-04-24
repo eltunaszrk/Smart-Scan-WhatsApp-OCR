@@ -173,7 +173,7 @@ The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI 
 1. Clone the repository:
    ```bash
    git clone https://github.com/rishn/Smart-Scan-Whatsapp-OCR.git
-   cd smart-scan
+   cd Smart-Scan-Whatsapp-OCR
    ```
 2. Install dependencies:
     ```bash
