@@ -53,7 +53,7 @@ This process introduces **latency**, **workflow friction**, and **user experienc
 - Reduced productivity and reliance on third-party apps, risking data privacy.
 
 ### **Case study**
-Refer the case study here 👉 [Case Study](https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/Smart%Scan%Case%Study.pdf)  
+Refer the case study here 👉 [Case Study](https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/Smart%20Scan%20Case%20Study.pdf)  
 
 ---
 
