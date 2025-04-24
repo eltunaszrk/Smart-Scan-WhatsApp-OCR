@@ -1,6 +1,5 @@
-# 🧠 Smart Scan - OCR for WhatsApp Web
+# Smart Scan - OCR for WhatsApp Web
 
-![Smart Scan Logo](https://via.placeholder.com/150x150.png?text=Smart+Scan)  
 **Empowering WhatsApp users with in-chat OCR capabilities.**
 
 ---
@@ -15,14 +14,25 @@
 
 ---
 
-## 🚀 Try the Live Demo
+## 📹 Demo
 
-👉 **Check out the working prototype here:** [Smart Scan Demo](https://smart-scan-whatsapp.onrender.com)  
+Watch Smart Scan in action: 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1w3yzi3O1wO7HWPpdN8QJA0Xh7XT0H9DL/view">
+    <img src="https://github.com/user-attachments/assets/0bbc3f9b-7999-48b4-a290-f9cf7c930dc2" alt="Watch Windows Opera Demo" width="600">
+  </a>
+</p>
+
+---
+
+## 🚀 Try the Prototype Live
+
+👉 **Check out the prototype here:** [Smart Scan Demo](https://smart-scan-whatsapp.onrender.com)  
 > _Test it with images of invoices, QR codes, or handwritten notes!_
 
 ---
 
-## 🚨 Problem Statement
+## 🚨 Problem Overview
 
 ### **User Pain Point**
 WhatsApp users often receive important information as images, such as:
@@ -65,14 +75,18 @@ Smart Scan integrates OCR capabilities directly into WhatsApp Web, enabling user
 ### **1. Image Preview Modal**
 The `ImagePreviewModal` allows users to view and analyze images. Extracted text and QR codes are displayed with actionable buttons.
 
-![Image Preview Modal](https://via.placeholder.com/800x400.png?text=Image+Preview+Modal)
+<p align="center">
+  <img src="https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/assets/ImagePreviewModal.png?raw=true" alt="Image Preview Modal" />
+</p>
 
 ---
 
 ### **2. UPI Payment Modal**
 The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI link or initiate payments.
 
-![UPI Payment Modal](https://via.placeholder.com/800x400.png?text=UPI+Payment+Modal)
+<p align="center">
+  <img src="https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/assets/UPIPaymentModal.png?raw=true" alt="UPI Payment Modal" />
+</p>
 
 ---
 
@@ -81,6 +95,11 @@ The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI 
 ### **Architecture**
 - **OCR Engine**: Uses lightweight libraries like `Tesseract` and `jsQR` for text and QR code detection.
 - **On-Device Processing**: Ensures user privacy and low latency.
+
+### Feature Architecture Flow
+<p align="center">
+  <img src="https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/assets/FeatureArchitectureFlow.png?raw=true" alt="Feature Architecture Flow" />
+</p>
 
 ### **Key Components**
 1. **ImagePreviewModal**:
@@ -112,6 +131,11 @@ The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI 
 - **Privacy**: On-device processing ensures secure data handling.
 - **Convenience**: No switching apps. No copy-pasting. Just scan and act.
 
+### Time Saved
+<p align="center">
+  <img src="https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/assets/TimeSavings.png?raw=true" alt="Time Saved" />
+</p>
+
 ### **For Businesses**
 - **Faster Payments**: Accelerates QR-based checkouts and payments.
 - **Improved Productivity**: Streamlines workflows for SMBs and micro-entrepreneurs.
@@ -128,6 +152,11 @@ The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI 
 | **Telegram**           | ❌ No           | ❌ Limited                      | ✅ Yes              |
 | **WhatsApp (Now)**     | ❌ Partial      | ❌ Very Limited                 | ✅ Yes              |
 | **WhatsApp (Smart Scan)** | ✅ Yes       | ✅ Copy, Pay, Translate         | ❌ No               |
+
+### UX Comparison
+<p align="center">
+  <img src="https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/assets/UXComparison.png?raw=true" alt="UX Comparison" />
+</p>
 
 ---
 
