@@ -149,9 +149,11 @@ The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI 
 
 ## 📌 Status
 
-**🟢 Prototype complete and live.**  
+### **🟢 Prototype complete and live.** 
+
 Smart Scan is ready for demo, feedback, and iterations.
 👉 [Demo Link](https://smart-scan-whatsapp.onrender.com)  
+
 ---
 
 ## 🤝 Call for Feedback
