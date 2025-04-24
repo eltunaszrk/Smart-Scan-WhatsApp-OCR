@@ -15,6 +15,13 @@
 
 ---
 
+## 🚀 Try the Live Demo
+
+👉 **Check out the working prototype here:** [Smart Scan Demo](https://smart-scan-whatsapp.onrender.com)  
+> _Test it with images of invoices, QR codes, or handwritten notes!_
+
+---
+
 ## 🚨 Problem Statement
 
 ### **User Pain Point**
@@ -136,7 +143,7 @@ The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishn/smart-scan.git
+   git clone https://github.com/rishn/Smart-Scan-Whatsapp-OCR.git
    cd smart-scan
    ```
 2. Install dependencies:
