@@ -52,6 +52,9 @@ This process introduces **latency**, **workflow friction**, and **user experienc
 - Inefficient access to text-based data (e.g., invoice numbers, OTPs).
 - Reduced productivity and reliance on third-party apps, risking data privacy.
 
+### **Case study**
+Refer the case study here 👉 [Case Study](https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/Smart%Scan%Case%Study.pdf)  
+
 ---
 
 ## 💡 Solution: Smart Scan
