@@ -1,4 +1,4 @@
-# Smart Scan - OCR for WhatsApp Web
+# Smart Scan - OCR for WhatsApp
 
 **Empowering WhatsApp users with in-chat OCR capabilities.**
 
