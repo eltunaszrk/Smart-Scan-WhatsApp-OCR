@@ -53,7 +53,7 @@ This process introduces **latency**, **workflow friction**, and **user experienc
 - Reduced productivity and reliance on third-party apps, risking data privacy.
 
 ### **Case study**
-Refer the case study here 👉 [Case Study](./Smart%20Scan%20Case%20Study.pdf)  
+Refer the case study here 👉 [Case Study](https://drive.google.com/file/d/1_Lr699S9o0geR2beNWAjHq1b7l3Y1TMe/view)  
 
 ---
 
