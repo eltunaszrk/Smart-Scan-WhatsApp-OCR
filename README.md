@@ -52,7 +52,7 @@ This process introduces **latency**, **workflow friction**, and **user experienc
 - Inefficient access to text-based data (e.g., invoice numbers, OTPs).
 - Reduced productivity and reliance on third-party apps, risking data privacy.
 
-### **Case study**
+### **Case Study**
 Refer the case study here 👉 [Case Study](https://drive.google.com/file/d/1_Lr699S9o0geR2beNWAjHq1b7l3Y1TMe/view)  
 
 ---
@@ -112,6 +112,9 @@ The `UPIPaymentModal` detects UPI QR codes and provides options to copy the UPI 
    - Detects UPI QR codes and provides actionable options.
 3. **Toast Notifications**:
    - Provides feedback (e.g., "Text copied!") using a light-themed WhatsApp-style UI.
+  
+### **Product Spec**
+Refer the product spec here 👉 [Product Spec](https://github.com/rishn/Smart-Scan-WhatsApp-OCR/blob/main/product-spec.md)
 
 ---
 
